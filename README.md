@@ -29,6 +29,6 @@ currently building my foundation in programming and technology.
 ## 🌱 Currently Learning
 
 - 🐍 Python & programming fundamentals
-- 🌐 HTML & CSS
-- 🔧 Git & GitHub
-- 🧠 Problem solving & Computer Science fundamentals
+- 🧠 Problem solving
+- 🌐 Web development
+- 💻 Building my first projects
