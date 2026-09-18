@@ -26,3 +26,9 @@ currently building my foundation in programming and technology.
 
 ### Tools
 🧑‍💻 Git • GitHub • VS Code
+## 🌱 Currently Learning
+
+- 🐍 Python & programming fundamentals
+- 🌐 HTML & CSS
+- 🔧 Git & GitHub
+- 🧠 Problem solving & Computer Science fundamentals
