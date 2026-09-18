@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👨‍🎓 Computer Science student at SSCBS, University of Delhi
+
 🧑‍💻 A Technology Enthusiast taking his first learning steps.
+
 ⚙️ Exploring AI/Ml and Various interesting fields of Tech.
