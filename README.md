@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Danish👋
 
 <!--
 **Danish26905/Danish26905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👨‍🎓 Computer Science student at SSCBS, University of Delhi
+🧑‍💻 A Technology Enthusiast taking his first learning steps.
+⚙️ Exploring AI/Ml and Various interesting fields of Tech.
