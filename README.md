@@ -14,7 +14,6 @@ currently building my foundation in programming and technology.
 
 - 🌱 Currently learning Python, HTML & CSS
 - 🤖 Interested in AI/ML and emerging technologies
-- 🚀 Learning by building projects and experimenting
 - 📚 Focused on strengthening my Computer Science fundamentals
 ## 🛠️ Tech Stack
 
