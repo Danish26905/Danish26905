@@ -7,6 +7,7 @@
 <p align="center">
   💻 Learning • 🧠 Exploring • 🚀 Building
 </p>
+
 ## 🧑‍💻 About Me
 
 I'm a Computer Science student at SSCBS, University of Delhi,
