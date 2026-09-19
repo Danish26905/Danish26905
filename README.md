@@ -17,14 +17,9 @@ currently building my foundation in programming and technology.
 - 📚 Focused on strengthening my Computer Science fundamentals
 ## 🛠️ Tech Stack
 
-### Languages
-🐍 Python
-
-### Web
-🌐 HTML • CSS
-
-### Tools
-🧑‍💻 Git • GitHub • VS Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+</p>
 ## 🌱 Currently Learning
 
 - 🐍 Python & programming fundamentals
