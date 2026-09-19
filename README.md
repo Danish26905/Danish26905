@@ -20,6 +20,7 @@ currently building my foundation in programming and technology.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
 </p>
+
 ## 🌱 Currently Learning
 
 - 🐍 Python & programming fundamentals
